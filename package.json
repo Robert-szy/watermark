@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robert-szy/watermark.git"
+  },
+  "author": "Eres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robert-szy/watermark/issues"
+  },
+  "homepage": "https://github.com/Robert-szy/watermark#readme"
+}
